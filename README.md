@@ -3,7 +3,7 @@
 # Для создания контейнера Docker-compose
 
 ```shell
-docker-compose up --build
+docker-compose up
 ```
 
 # Для создания пользователей
