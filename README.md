@@ -1,5 +1,8 @@
 # TestCompas
-
+# Создать образ docker
+```shell
+docker build . -t (name)
+```
 # Для создания контейнера Docker-compose
 
 ```shell
